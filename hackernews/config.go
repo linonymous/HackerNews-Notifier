@@ -1,4 +1,4 @@
-package hacker_news
+package hackernews
 
 import "github.com/spf13/viper"
 
